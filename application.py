@@ -1,5 +1,6 @@
 '''
 Farooq Azam Khan
+repo: https://github.com/Farooq-azam-khan/OnlineBookStore-DB-API/tree/master
 Standard MIT License (2018)
 '''
 
